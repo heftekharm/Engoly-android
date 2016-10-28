@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Engoly</string>
+    <string name="action_settings">Settings</string>
+    <string name="chat_def_text">Text Message</string>
+</resources>
